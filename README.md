@@ -55,5 +55,5 @@ This real-world data is looking for 3 answers:
 1. More travelers need to be moved from Platform to Integrated to decrease the cancellation rate
 2. It seems property management companies leave higher take rate than the individual. Tools working for PM could be helpful in order to increase the take rate. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/mrbalikci/data-insights-Excel/blob/master/excel.gif)
 
